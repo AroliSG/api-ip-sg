@@ -8,7 +8,6 @@ module.exports = {
 			axios.get (url)
 				.then (res => {
 					callback (res.data);
-					map.set (ip, res.data);
 				})
 				.catch (e => { throw 'your lookup has failed.. ' + e; });
 		}
