@@ -7,5 +7,10 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AroliSG/api-ip-sg.git"
+  },
+  "keywords": ["proxy", "iplookup", "vpn checker", "iplookup free"]
 }
