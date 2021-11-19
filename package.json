@@ -1,0 +1,11 @@
+{
+  "name": "api-ip-sg",
+  "version": "0.0.2",
+  "description": "get proxy info",
+  "main": "app.js",
+  "author": "AroliSG",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
